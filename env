@@ -1,0 +1,6 @@
+CLOUD_NAME=dunq5ixu
+CLOUD_API_KEY=539529597419718
+CLOUD_API_SECRET=W2JtRhkpeSR6P1Ld-eOIs4JilTw
+
+ATLASDB_URL=mongodb+srv://varunkumarchimata47_db_user:bIPIng8vAsMFNLfs@cluster0.rsmwrcu.mongodb.net/Wanderlust?retryWrites=true&w=majority&appName=Cluster0
+SECRET=mysupersecret
